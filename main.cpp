@@ -35,6 +35,7 @@ void registerUser() {
     fout.close();
     cout << "User registered successfully with role: " << role << "\n";
 }
+//start
 
 bool loginSystem() {
     string username, password;
